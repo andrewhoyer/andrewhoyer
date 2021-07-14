@@ -1,10 +1,17 @@
+
+### The Here and Now
+
+I'm currently a full-time freelancer, with a focus on web and iOS development.
+
 ### Dev History
 
-I have been coding for three decades, starting with the Apple II and the Amiga, moving to Windows and web development, then to Linux, MySQL, and Perl, and more recently WordPress, Python, and mobile apps using Objective-C.
+I have been coding for three decades, starting with the Apple II and the Amiga, moving to Windows and web development, then to Perl and MySQL, and more recently WordPress, Python, and mobile apps using Objective-C.
 
-### Freelance Work
+### Skillset
 
-I'm currently a full time freelancer, with a focus on WordPress, iOS apps, and day-to-day client support (hosting, DNS, task automation, etc).
+Web: WordPress, JavaScript, CSS, PHP
+Coding: Objective-C, Python
+Database: MySQL, SQLite, SQLite FTS (full text search)
 
 ### Open Source
 
