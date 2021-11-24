@@ -9,11 +9,11 @@ I have been coding for three decades, starting with the Apple II and the Amiga, 
 
 ### Current Skillset
 
-Web: WordPress, JavaScript, CSS, PHP
-Coding: Objective-C, Python
-Database: MySQL, SQLite, SQLite FTS (full text search)
-Automation / Web Tools: Zapier, Google Tag Manager
-Project Management: ZenDesk, Zoho, Asana, Trello, Slack, Discord
+- Web: WordPress, JavaScript, CSS, PHP
+- Coding: Objective-C, Python
+- Database: MySQL, SQLite, SQLite FTS (full text search)
+- Automation / Web Tools: Zapier, Google Tag Manager
+- Project Management: ZenDesk, Zoho, Asana, Trello, Slack, Discord
 
 ### Tech Skills
 
