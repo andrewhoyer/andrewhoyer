@@ -5,7 +5,7 @@ I'm currently a full-time freelancer, with a focus on WordPress, Python, and iOS
 
 ### Dev History
 
-I have been coding for three decades, learning BASIC on the Apple II and the Amiga in high school, moving to C++, SQL, and web development during my time at tech school, then to Linux, Perl, MySQL and other technologies across a number of jobs, and more recently WordPress, Python, and mobile apps using Objective-C.
+I have been coding for three decades, learning BASIC on the Apple II and the Amiga in high school, C++, SQL, and web development during my time at tech school, Linux, Perl, MySQL and other technologies across a number of jobs, and more recently WordPress, Python, and mobile apps using Objective-C as a freelancer.
 
 ### Current Skillset
 
@@ -19,7 +19,7 @@ I have been coding for three decades, learning BASIC on the Apple II and the Ami
 
 Many years of development jobs, and freelancing for dozens of clients has given me experience with a wide range of technology which I am familiar with but do not make up my current core skillset. The following is a short list of these types of skills, in no particular order:
 
-Cold Fusion, Google Apps Script, Webflow, Perl, MS SQL, ImageMagick, Automator for Mac.
+Cold Fusion, Google Apps Script, Webflow, jQuery, Perl, MS SQL, ImageMagick, Automator for Mac, SpriteKit.
 
 ### Open Source
 
@@ -37,4 +37,4 @@ A GitHub member since 2011, I am a big supporter, user, and promoter of open sou
 
 ### Connect With Me
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andrewhoyer) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewhoyer/) [![WordPress Badge](https://img.shields.io/badge/WordPress-grey?logo=wordpress&logoColor=white&style=for-the-badge)](https://profiles.wordpress.org/andrewhoyer/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andrewhoyer) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewhoyer/) [![WordPress Badge](https://img.shields.io/badge/WordPress-grey?logo=wordpress&logoColor=white&style=for-the-badge)](https://profiles.wordpress.org/andrewhoyer/) [![Mastodon Badge](https://img.shields.io/badge/Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white)](https://indieweb.social/@andrewhoyer)
